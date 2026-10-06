@@ -14,7 +14,7 @@
 グループ編集で外貨を追加すると、立て替えを登録した時点の為替レートで換算して清算します。
 
 **英語で使えますか？**
-ホーム画面左上の地球儀ボタンから日本語/Englishを切り替えられます。
+iPhoneの言語設定に合わせて日本語または英語で表示されます。アプリだけ言語を変えたい場合は「設定 > アプリ > 割り勘 > 言語」で選べます。
 
 ## お問い合わせ
 
@@ -32,6 +32,6 @@ Split Bill records who paid for what on trips and nights out, and works out who 
 
 **Foreign currencies?** Add currencies in Edit Group. Expenses are converted at the exchange rate when they're added.
 
-**Language?** Use the globe button at the top left of the home screen to switch between Japanese and English.
+**Language?** The app follows your iPhone's language (Japanese or English). To change it for this app only, go to Settings > Apps > Split Bill > Language.
 
 Contact: thistle0420@gmail.com
